@@ -24,6 +24,7 @@
 //
 //-----------------------------------------------------------------------------
 
+#include <stdint.h>
 static const char
 rcsid[] = "$Id: m_misc.c,v 1.6 1997/02/03 22:45:10 b1 Exp $";
 
@@ -34,6 +35,8 @@ rcsid[] = "$Id: m_misc.c,v 1.6 1997/02/03 22:45:10 b1 Exp $";
 #include <unistd.h>
 
 #include <ctype.h>
+
+#include <unistd.h>
 
 
 #include "doomdef.h"
