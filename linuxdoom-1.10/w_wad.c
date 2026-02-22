@@ -22,13 +22,6 @@
 //-----------------------------------------------------------------------------
 
 
-#include <alloca.h>
-#include <ctype.h>
-#include <fcntl.h>
-#include <stdlib.h>
-#include <string.h>
-#include <unistd.h>
-#include <sys/stat.h>
 static const char
 rcsid[] = "$Id: w_wad.c,v 1.5 1997/02/03 16:47:57 b1 Exp $";
 
