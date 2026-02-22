@@ -31,9 +31,7 @@
 #ifdef __cplusplus
 typedef bool boolean;
 #else
-//typedef enum {false, true} boolean; old
-#include <stdbool.h> //correction
-typedef bool boolean;
+typedef enum {FALSE, TRUE} boolean;
 #endif
 typedef unsigned char byte;
 #endif
